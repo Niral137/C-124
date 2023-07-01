@@ -1,0 +1,42 @@
+#button
+{
+    background-color: plum;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px grey;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(13, 1, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(19, 227, 116);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
